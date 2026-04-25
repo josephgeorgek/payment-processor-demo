@@ -1,0 +1,1 @@
+INSERT INTO payment_fee_config(transaction_type, fee_rate, status, created_at) VALUES ('SWIFT_INTL', 0.0300, 'ACTIVE', CURRENT_TIMESTAMP);
